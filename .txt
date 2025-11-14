@@ -1,0 +1,3 @@
+-- npm run dev -- untuk lihat web yg dikerjakan secara live di browser..
+.open in terminal.
+________________________________________________________________________
